@@ -1,4 +1,4 @@
-module common
+module github.com/wagfog/common
 
 go 1.20
 
